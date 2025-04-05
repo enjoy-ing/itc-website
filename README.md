@@ -23,7 +23,7 @@ itc-website/
 ```
 
 ## 🚀 Hosting
-Hosted on GitHub Pages: https://your-username.github.io/itc-website/
+Hosted on GitHub Pages: https://enjoy-ing.github.io/itc-website/
 
 ## 🔧 Technologies
 - HTML5
